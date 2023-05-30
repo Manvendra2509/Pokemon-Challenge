@@ -36,7 +36,7 @@ if (variable1 == 1 && variable2 == 2) {
     document.querySelector("h1").innerHTML= "Draw!"
 } else if (variable1 == 2 && variable2 == 2) {
     document.querySelector("h1").innerHTML= "Draw!"
-} else if (variable1 == 2 && variable2 == 2) {
+} else if (variable1 == 3 && variable2 == 3) {
     document.querySelector("h1").innerHTML= "Draw!";
 }
 

@@ -34,9 +34,9 @@ if (variable1 == 1 && variable2 == 2) {
     document.querySelector("h1").innerHTML= "Player 1 wins!";
 } else if (variable1 == 1 && variable2 == 1) {
     document.querySelector("h1").innerHTML= "Draw!"
-} else if (variable1 == 1 && variable2 == 1) {
+} else if (variable1 == 2 && variable2 == 2) {
     document.querySelector("h1").innerHTML= "Draw!"
-} else if (variable1 == 1 && variable2 == 1) {
+} else if (variable1 == 2 && variable2 == 2) {
     document.querySelector("h1").innerHTML= "Draw!";
 }
 
